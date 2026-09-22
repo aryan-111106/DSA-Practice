@@ -1,0 +1,35 @@
+# 📝 Find element at a given Index (GeeksforGeeks)
+
+🔗 [Problem Link](https://www.geeksforgeeks.org/problems/c-array-print-an-element-set-25933/1)
+
+![Difficulty](https://img.shields.io/badge/Difficulty-Basic-blue) ![Language](https://img.shields.io/badge/Language-Python-blue)
+
+### 💡 Tags
+Arrays, CPP
+
+### 🚀 Performance
+- **Runtime:** Successfully Evaluated
+- **Memory:** N/A
+
+---
+
+### 📜 Problem Description
+
+Given an array  **arr[]**  of integers and an index  **i** (0-based index). Return the element present at the index i in the array.
+
+**Examples:**
+
+```
+Input: i = 2 , arr[] = [10, 20, 30, 40, 50]
+Output: 30
+Explanation: The value of arr[2] is 30 .
+```
+
+```
+Input: i = 4 , arr[] = [10, 20, 30, 40, 50, 60, 70]
+Output: 50
+Explanation: The value of the arr[4] is 50 .
+```
+
+**Constraints:** 1 ≤ arr.size() ≤ 106 **** 0 ≤ i ≤ arr.size() - 1
+1 ≤ arr[i] ≤ 109
