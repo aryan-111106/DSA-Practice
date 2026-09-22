@@ -1,1 +1,1 @@
-# GFG-Practice
+# DSA-Practice
